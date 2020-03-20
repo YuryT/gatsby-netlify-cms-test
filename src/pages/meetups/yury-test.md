@@ -1,7 +1,7 @@
 ---
 templateKey: meetup
 title: Yury Test
-date: 2020-03-20T09:45:40.990Z
+date: 2020-03-31T09:45:40.990Z
 presenters:
   - image: /img/preview.jpg
     name: Yury
