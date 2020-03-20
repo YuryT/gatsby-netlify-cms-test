@@ -3,7 +3,8 @@ templateKey: meetup
 title: Yury Test
 date: 2020-03-20T09:45:40.990Z
 presenters:
-  - name: Yury
+  - image: /img/preview.jpg
+    name: Yury
     presentationTitle: Yury some ntest
     text: a lot of description here  now
 location:
